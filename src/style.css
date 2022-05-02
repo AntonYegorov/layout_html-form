@@ -1,1 +1,25 @@
-/* styles go here */
+body {
+  /* margin: 0; */
+}
+
+.form-field {
+  display: block;
+  margin: 10px 0;
+  /* padding: 5px 0; */
+}
+
+.field {
+  margin-bottom: 20px;
+  /* margin: 20px auto; */
+  /* padding: 10px; */
+
+}
+
+.last {
+  margin-bottom: 0;
+
+}
+
+.first {
+  margin-top: 0;
+}
